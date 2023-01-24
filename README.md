@@ -3,7 +3,7 @@
   
 
 
-💻 I’m currently work...
+### 💻 I’m currently work...
 
 ![docker]
 ![gitHub-actions]
@@ -27,7 +27,7 @@
 ![prettier]
 ![express]
 
-## Contact me
+### Contact me
 [![linkedin]](https://www.linkedin.com/in/jean-campelo/)
 [![gmail]](mailto:jean93campelo@gmail.com)
 
