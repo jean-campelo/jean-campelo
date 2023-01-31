@@ -32,8 +32,6 @@
 [![gmail]](mailto:jean93campelo@gmail.com)
 
 #
-![](https://github-readme-stats.vercel.app/api?username=jean-campelo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jean-campelo&layout=compact&langs_count=7&theme=tokyonight)
 
 ![snake gif](https://github.com/jean-campelo/jean-campelo/blob/output/github-contribution-grid-snake.svg)
