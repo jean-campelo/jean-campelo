@@ -5,7 +5,7 @@
         <h2>Saudações sou Jean, um Desenvolvedor Full Stack Padawan!</h2>
       </td>
       <td align="center">
-        <img align="center" width="500px" src="https://s.aficionados.com.br/imagens/giphy-91.gif" />
+        <img align="center" width="500px" src="https://media.tenor.com/0Akz_GWDQyQAAAAC/star-wars-hello-there.gif" />
       </td>
     </tr>
 </table>
@@ -45,6 +45,7 @@ Acredito que o conhecimento pode melhorar a vida das pessoas e com a tecnologia 
 ![react]
 ![prettier]
 ![express]
+
 
 ### Entre em contato
 [![linkedin]](https://www.linkedin.com/in/jean-campelo/)
