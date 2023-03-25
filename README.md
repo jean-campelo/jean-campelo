@@ -1,9 +1,28 @@
-## Hello I'm Jean, Fullstack Developer Padawan!
-![Yoda](https://s.aficionados.com.br/imagens/giphy-91.gif)
+  <div align="center">
+<table>
+    <tr>
+      <td align="center">
+        <h2>Saudações sou Jean, um Desenvolvedor Full Stack Padawan!</h2>
+      </td>
+      <td align="center">
+        <img align="center" width="500px" src="https://s.aficionados.com.br/imagens/giphy-91.gif" />
+      </td>
+    </tr>
+</table>
+</div>
+
   
+- 🌎 Desenvolvedor de São Paulo/SP
+- 📚 experiente no desenvolvimento de aplicações web responsivas e escaláveis
+- 🧑‍🔬 migrei da área química após encontrar minha paixão no desenvolvimento
+- 🌱 sempre aprendendo ferramentas novas para meu crescimento
+
+Acredito que o conhecimento pode melhorar a vida das pessoas e com a tecnologia facilitamos essa conexão.
+
+**Sinta-se à vontade para entrar em contato comigo se estiver interessado em discutir oportunidades em potencial!**
 
 
-### 💻 I’m currently work...
+### 💻 Ferramentas e tecnologias...
 
 ![docker]
 ![gitHub-actions]
@@ -27,7 +46,7 @@
 ![prettier]
 ![express]
 
-### Contact me
+### Entre em contato
 [![linkedin]](https://www.linkedin.com/in/jean-campelo/)
 [![gmail]](mailto:jean93campelo@gmail.com)
 
