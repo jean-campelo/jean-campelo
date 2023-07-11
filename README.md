@@ -11,7 +11,6 @@
 </table>
 </div>
 
-  
 - 🌎 Desenvolvedor de São Paulo/SP
 - 📚 experiente no desenvolvimento de aplicações web responsivas e escaláveis
 - 🧑‍🔬 migrei da área química após encontrar minha paixão no desenvolvimento
