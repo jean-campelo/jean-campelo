@@ -25,9 +25,6 @@ Acredito que o conhecimento pode melhorar a vida das pessoas e com a tecnologia 
   <div>
     <h2>Linguagens</h2>
     <div>
-      <a href="http://www.python.org/" >
-         <img alt="Python" src="https://camo.githubusercontent.com/3df944c2b99f86f1361df72285183e890f11c52d36dfcd3c2844c6823c823fc1/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d507974686f6e26636f6c6f723d333737364142266c6f676f3d507974686f6e266c6f676f436f6c6f723d464646464646266c6162656c3d" /> 
-      </a>
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/" >
         <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
       </a>
@@ -41,9 +38,26 @@ Acredito que o conhecimento pode melhorar a vida das pessoas e com a tecnologia 
         <img alt="CSS" src="https://camo.githubusercontent.com/9fe0ddca8c80fd49703246ca3b9a894ddfdc9c1c80f6ab5de92bbe91471dbab8/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4353533326636f6c6f723d313537324236266c6f676f3d43535333266c6f676f436f6c6f723d464646464646266c6162656c3d" /> 
       </a>
     </div>
+  </div>  
+
+  
+  <div>
+    <div>
+       <h2>Aprendendo</h2>
+    </div>
+      <a href="http://www.python.org/" >
+         <img alt="Python" src="https://camo.githubusercontent.com/3df944c2b99f86f1361df72285183e890f11c52d36dfcd3c2844c6823c823fc1/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d507974686f6e26636f6c6f723d333737364142266c6f676f3d507974686f6e266c6f676f436f6c6f723d464646464646266c6162656c3d" /> 
+      </a>
+        <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/" >
+         <img alt="C#" src="https://camo.githubusercontent.com/8b0a7e7038111ad457ea95174b8b3383d4ebdd7c5f0f0fdbb042cdc783521a72/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d432b536861727026636f6c6f723d323339313230266c6f676f3d432b5368617270266c6f676f436f6c6f723d464646464646266c6162656c3d" /> 
+      </a>
+      <a href="https://dotnet.microsoft.com/pt-br/" >
+         <img alt=".NET" src="https://camo.githubusercontent.com/ff765790707ecba41b57071db549f75fbf0eeffa5ac6996ff077083863b8bea4/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d2e4e455426636f6c6f723d353132424434266c6f676f3d2e4e4554266c6f676f436f6c6f723d464646464646266c6162656c3d" /> 
+      </a>
   </div>
 
-#
+
+
 ## **Ferramentas & tecnologias**
 
 ![docker]
