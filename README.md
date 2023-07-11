@@ -2,7 +2,7 @@
 <table>
     <tr>
       <td align="center">
-        <h2>Saudações sou Jean, um Desenvolvedor Full Stack Padawan!</h2>
+        <h2>Saudações me chamo Jean, e sou Desenvolvedor Full Stack</h2>
       </td>
       <td align="center">
         <img align="center" width="500px" src="https://media.tenor.com/0Akz_GWDQyQAAAAC/star-wars-hello-there.gif" />
@@ -20,16 +20,18 @@
 Acredito que o conhecimento pode melhorar a vida das pessoas e com a tecnologia facilitamos essa conexão.
 
 **Sinta-se à vontade para entrar em contato comigo se estiver interessado em discutir oportunidades em potencial!**
-
+### Linguagens
+![Python]
+![TS]
+![JS]
+![HTML]
+![CSS]
 
 ### 💻 Ferramentas e tecnologias...
 
 ![docker]
 ![gitHub-actions]
 ![prisma]
-![Python]
-![TS]
-![CSS]
 ![postgres]
 ![heroku]
 ![axios]
@@ -37,10 +39,8 @@ Acredito que o conhecimento pode melhorar a vida das pessoas e com a tecnologia 
 ![NPM]
 ![redis]
 ![jest]
-![HTML]
 ![AWS]
 ![linux]
-![JS]
 ![mongo]
 ![node]
 ![react]
