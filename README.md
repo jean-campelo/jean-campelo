@@ -11,45 +11,33 @@
 </table>
 </div>
 
-- Apaixonado pelo progresso baseado na construção de testes
-- 📚 Atualmente estou estudando <b>Java</b>
+Sou um Desenvolvedor Full Stack apaixonado por tecnologia, construção de testes para melhorar o processamento e experiência.
 
-Acredito que o conhecimento pode melhorar a vida das pessoas e com a tecnologia facilitamos essa conexão.
+📚 Atualmente, estou focado em aprimorar minhas habilidades em Java e Python.
 
-<div>
-  <h3>Sinta-se à vontade para entrar em contato se estiver interessado em discutir oportunidades em potencial!</h3>    
-  <a href="https://www.linkedin.com/in/jean-campelo/">
-    <img alt="Linkedin" src="https://camo.githubusercontent.com/12d696c039b7e718da27138d78a1a5e2dadcb331ad441652c1ce2df0d8f2ef41/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4c696e6b6564496e26636f6c6f723d304136364332266c6f676f3d4c696e6b6564496e266c6f676f436f6c6f723d464646464646266c6162656c3d"/>
-  </a>
+💡 Acredito que o conhecimento e a tecnologia podem transformar o mundo, tornando-o um lugar melhor para todos nós. 
 
-  <a href="mailto:jean93campelo@gmail.com" >
-    <img alt="Gmail" src="https://camo.githubusercontent.com/b070a7f6855dbf52729ec83a928c93e728f5245e24123a6547912acea3753899/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d476d61696c26636f6c6f723d454134333335266c6f676f3d476d61696c266c6f676f436f6c6f723d464646464646266c6162656c3d" /> 
-  </a>
+🌟 Algumas das tecnologias que eu adoro trabalhar:
 
-  <a href="https://wa.me/5511974212660">
-    <img alt="Whatsapp" src="https://camo.githubusercontent.com/7bd751781e6f998e2fa3460d679bdddaa84d355b18418dca1dfa5ef317adc5dc/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d576861747341707026636f6c6f723d323232323232266c6f676f3d5768617473417070266c6f676f436f6c6f723d323544333636266c6162656c3d"/>
-  </a>
-  <h5>E-mail: jean93campelo@gmail.com</h5>
-</div>
-  
+- Frontend: React, HTML, CSS, JavaScript
+- Backend: Node.js, Express, TypeScript
+- Banco: MongoDB, PostgreSQL, MySQL
+- DevOps: Docker, GitHub Actions, Heroku, AWS
+- Testes: Jest, Mocha
+- Ferramentas adicionais: Git, Styled Components, Prettier
 
-<div> 
-  <div>
-    <div>
-       <h2>Aprendendo</h2>
-    </div>
-      <a href="http://www.python.org/" >
-         <img alt="Python" src="https://camo.githubusercontent.com/3df944c2b99f86f1361df72285183e890f11c52d36dfcd3c2844c6823c823fc1/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d507974686f6e26636f6c6f723d333737364142266c6f676f3d507974686f6e266c6f676f436f6c6f723d464646464646266c6162656c3d" /> 
-      </a>
-      <a href="https://www.java.com/pt-BR/download/help/whatis_java.html" >
-         <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> 
-      </a>
-  </div>
+Se você estiver interessado em discutir oportunidades de colaboração, aprendizado ou apenas bater um papo, fique à vontade para entrar em contato!
+
+📫 E-mail: jean93campelo@gmail.com  
+💻 LinkedIn: [jean-campelo](https://www.linkedin.com/in/jean-campelo/)  
+
+🌐 Meus projetos recentes podem ser encontrados aqui no GitHub. Dê uma olhada! 
 
 
 
 ## **Ferramentas & tecnologias**
 
+![electron]
 ![mysql]
 ![docker]
 ![gitHub-actions]
@@ -82,6 +70,7 @@ Acredito que o conhecimento pode melhorar a vida das pessoas e com a tecnologia 
 
 ![snake gif](https://github.com/jean-campelo/jean-campelo/blob/output/github-contribution-grid-snake.svg)
 
+[electron]: https://camo.githubusercontent.com/1f5f68e620347faca4468de78e86fa31d54e44195f91ddcf788c49b5ce9194ca/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d456c656374726f6e26636f6c6f723d343738343846266c6f676f3d456c656374726f6e266c6f676f436f6c6f723d464646464646266c6162656c3d
 [TS]: https://camo.githubusercontent.com/773cfd323f61dbc7301a98e28c69fbd0f27f491272f4acf48106936ca1d14c47/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5479706553637269707426636f6c6f723d333137384336266c6f676f3d54797065536372697074266c6f676f436f6c6f723d464646464646266c6162656c3d
 [CSS]: https://camo.githubusercontent.com/9fe0ddca8c80fd49703246ca3b9a894ddfdc9c1c80f6ab5de92bbe91471dbab8/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4353533326636f6c6f723d313537324236266c6f676f3d43535333266c6f676f436f6c6f723d464646464646266c6162656c3d
 [HTML]: https://camo.githubusercontent.com/d2da7e7ec8424780720101d4853c64dffb81dc69dfdd25a0ce88cdb3848bbc6f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d48544d4c3526636f6c6f723d453334463236266c6f676f3d48544d4c35266c6f676f436f6c6f723d464646464646266c6162656c3d
