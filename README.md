@@ -23,7 +23,7 @@ Sou um Desenvolvedor apaixonado por tecnologia, construção de testes para melh
 - Backend: Node.js, Express, TypeScript
 - Banco: MongoDB, PostgreSQL, MySQL
 - DevOps: Docker, GitHub Actions, Heroku, AWS
-- Testes: Jest, Mocha
+- Testes: Jest, Mocha, Playwright
 - Ferramentas adicionais: Git, Styled Components, Prettier
 
 Se você estiver interessado em discutir oportunidades de colaboração, aprendizado ou apenas bater um papo, fique à vontade para entrar em contato!
