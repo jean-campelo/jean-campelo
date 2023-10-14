@@ -51,12 +51,12 @@ Acredito que o conhecimento pode melhorar a vida das pessoas e com a tecnologia 
 ## **Ferramentas & tecnologias**
 
 ![mysql]
-![postgres]
 ![docker]
 ![gitHub-actions]
 ![prisma]
 ![TS]
 ![CSS]
+![postgres]
 ![axios]
 ![heroku]
 ![styled-components]
