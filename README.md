@@ -11,9 +11,8 @@
 </table>
 </div>
 
-- 🌱 No momento estou desenvolvendo o <a href="https://github.com/stars/jean-campelo/lists/mind-manager"> Mind Manager</a>
+- Apaixonado pelo progresso baseado na construção de testes
 - 📚 Atualmente estou estudando <b>Java</b>
-- 🧑‍🔬 migrei da área química após encontrar minha paixão no desenvolvimento
 
 Acredito que o conhecimento pode melhorar a vida das pessoas e com a tecnologia facilitamos essa conexão.
 
