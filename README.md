@@ -2,7 +2,7 @@
 <table>
     <tr>
       <td align="center">
-        <h2>Olá, me chamo Jean e sou <b>Desenvolvedor Full Stack</b></h2>
+        <h2>Saudações, me chamo Jean e sou <b>Desenvolvedor Full Stack</b></h2>
       </td>
       <td align="center">
         <img align="center" width="500px" src="https://media.tenor.com/0Akz_GWDQyQAAAAC/star-wars-hello-there.gif" />
@@ -11,7 +11,7 @@
 </table>
 </div>
 
-Sou um Desenvolvedor Full Stack apaixonado por tecnologia, construção de testes para melhorar o processamento e experiência.
+Sou um Desenvolvedor apaixonado por tecnologia, construção de testes para melhorar o processamento e experiência.
 
 📚 Atualmente, estou focado em aprimorar minhas habilidades em Java e Python.
 
