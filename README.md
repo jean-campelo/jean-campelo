@@ -37,9 +37,6 @@ Acredito que o conhecimento pode melhorar a vida das pessoas e com a tecnologia 
   <div>
     <h2>Linguagens</h2>
     <div>
-      <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/" >
-        <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
-      </a>
       <a href="https://www.typescriptlang.org/" >
          <img alt="Typescript" src="https://camo.githubusercontent.com/773cfd323f61dbc7301a98e28c69fbd0f27f491272f4acf48106936ca1d14c47/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5479706553637269707426636f6c6f723d333137384336266c6f676f3d54797065536372697074266c6f676f436f6c6f723d464646464646266c6162656c3d" /> 
       </a>
@@ -74,13 +71,15 @@ Acredito que o conhecimento pode melhorar a vida das pessoas e com a tecnologia 
 ![prisma]
 ![postgres]
 ![mysql]
-![heroku]
 ![axios]
+![heroku]
 ![styled-components]
 ![NPM]
 ![redis]
+![HTML]
 ![jest]
 ![AWS]
+![JS]
 ![linux]
 ![mongo]
 ![node]
@@ -97,6 +96,8 @@ Acredito que o conhecimento pode melhorar a vida das pessoas e com a tecnologia 
 
 ![snake gif](https://github.com/jean-campelo/jean-campelo/blob/output/github-contribution-grid-snake.svg)
 
+[HTML]: https://camo.githubusercontent.com/d2da7e7ec8424780720101d4853c64dffb81dc69dfdd25a0ce88cdb3848bbc6f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d48544d4c3526636f6c6f723d453334463236266c6f676f3d48544d4c35266c6f676f436f6c6f723d464646464646266c6162656c3d
+[JS]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [mysql]: https://camo.githubusercontent.com/539a184961e9ab46a914b3a57718cd52f9a122ffb33a0bcaaa92484add20ba72/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4d7953514c26636f6c6f723d343437394131266c6f676f3d4d7953514c266c6f676f436f6c6f723d464646464646266c6162656c3d
 [Python]: https://camo.githubusercontent.com/3df944c2b99f86f1361df72285183e890f11c52d36dfcd3c2844c6823c823fc1/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d507974686f6e26636f6c6f723d333737364142266c6f676f3d507974686f6e266c6f676f436f6c6f723d464646464646266c6162656c3d
 [CSS]: https://camo.githubusercontent.com/9fe0ddca8c80fd49703246ca3b9a894ddfdc9c1c80f6ab5de92bbe91471dbab8/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4353533326636f6c6f723d313537324236266c6f676f3d43535333266c6f676f436f6c6f723d464646464646266c6162656c3d
