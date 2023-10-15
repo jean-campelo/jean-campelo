@@ -35,33 +35,32 @@ Se você estiver interessado em discutir oportunidades de colaboração, aprendi
 
 
 
-## **Ferramentas & tecnologias**
-
-![electron]
-![mysql]
-![docker]
-![gitHub-actions]
-![prisma]
-![TS]
-![CSS]
-![postgres]
-![axios]
-![heroku]
-![styled-components]
+### **Ferramentas & tecnologias**
+![jest]
 ![NPM]
 ![redis]
 ![HTML]
-![jest]
 ![AWS]
-![JS]
 ![linux]
+![JS]
+![playwright]
 ![mongo]
 ![node]
-![playwright]
-![react]
-![prettier]
-![express]
+![gitHub-actions]
+![docker]
+![prisma]
+![postgres]
+![mysql]
+![electron]
+![TS]
+![CSS]
+![axios]
+![heroku]
+![styled-components]
 ![mocha]
+![prettier]
+![react]
+![express]
 #
 
 ![](https://github.com/jean-campelo/jean-campelo/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
