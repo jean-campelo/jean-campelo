@@ -11,7 +11,7 @@
 </table>
 </div>
 
-Sou um Desenvolvedor apaixonado por tecnologia, construção de testes para melhorar o processamento e experiência.
+Sou apaixonado por tecnologia, construção de testes para melhorar o processamento e experiência.
 
 📚 Atualmente, estou focado em aprimorar minhas habilidades em __Java__ e __Python__.
 
