@@ -13,18 +13,18 @@
 
 Sou um Desenvolvedor apaixonado por tecnologia, construção de testes para melhorar o processamento e experiência.
 
-📚 Atualmente, estou focado em aprimorar minhas habilidades em Java e Python.
+📚 Atualmente, estou focado em aprimorar minhas habilidades em __Java__ e __Python__.
 
 💡 Acredito que o conhecimento e a tecnologia podem transformar o mundo, tornando-o um lugar melhor para todos nós. 
 
-🌟 Algumas das tecnologias que eu adoro trabalhar:
+🌟 Algumas das tecnologias que adoro trabalhar:
 
-- Frontend: React, HTML, CSS, JavaScript
-- Backend: Node.js, Express, TypeScript
-- Banco: MongoDB, PostgreSQL, MySQL
-- DevOps: Docker, GitHub Actions, Heroku, AWS
-- Testes: Jest, Mocha, Playwright
-- Ferramentas adicionais: Git, Styled Components, Prettier
+- Frontend: React, HTML, CSS e JavaScript
+- Backend: Node.js, TypeScript, Express e Cypress
+- Banco: MongoDB, PostgreSQL e MySQL
+- DevOps: Docker, GitHub Actions, Heroku e AWS
+- Testes: Jest, Mocha e Playwright
+- Ferramentas adicionais: Git, Styled Components, Prettier, Commitlint e SuperTest
 
 Se você estiver interessado em discutir oportunidades de colaboração, aprendizado ou apenas bater um papo, fique à vontade para entrar em contato!
 
@@ -32,8 +32,6 @@ Se você estiver interessado em discutir oportunidades de colaboração, aprendi
 💻 LinkedIn: [jean-campelo](https://www.linkedin.com/in/jean-campelo/)  
 
 🌐 Meus projetos recentes podem ser encontrados aqui no GitHub. Dê uma olhada! 
-
-
 
 ### **Ferramentas & tecnologias**
 ![jest]
@@ -71,6 +69,7 @@ Se você estiver interessado em discutir oportunidades de colaboração, aprendi
 #
 
 ![snake gif](https://github.com/jean-campelo/jean-campelo/blob/output/github-contribution-grid-snake.svg)
+
 
 [cypress]: https://camo.githubusercontent.com/23624f40c45be359d365d5f352234044a36a13e8b8a2dbeedd3b5cd83694d989/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4379707265737326636f6c6f723d313732303243266c6f676f3d43797072657373266c6f676f436f6c6f723d464646464646266c6162656c3d
 [playwright]: https://camo.githubusercontent.com/3081d063a414ec2dabe3365c5284a5bc1029345f19788a9150ea22b49830c59a/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d506c617977726967687426636f6c6f723d324541443333266c6f676f3d506c6179777269676874266c6f676f436f6c6f723d464646464646266c6162656c3d
