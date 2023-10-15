@@ -19,12 +19,12 @@ Sou apaixonado por tecnologia, acredito que na construção de testes para melho
 
 🌟 Algumas das tecnologias que adoro trabalhar:
 
-- Frontend: React, HTML, CSS e JavaScript
-- Backend: Node.js, TypeScript, Express e Cypress
-- Banco: MongoDB, PostgreSQL e MySQL
-- DevOps: Docker, GitHub Actions, Heroku e AWS
-- Testes: Jest, Mocha e Playwright
-- Ferramentas adicionais: Git, Styled Components, Prettier, Commitlint e SuperTest
+- Frontend: React | HTML | CSS | JavaScript
+- Backend: Node.js | TypeScript | Express | Cypress
+- Banco: MongoDB | PostgreSQL | MySQL
+- DevOps: Docker | GitHub Actions | Heroku | AWS
+- Testes: Jest | Mocha | Playwright
+- Ferramentas adicionais: Git | Styled Components | Prettier | Commitlint | SuperTest
 
 Se você estiver interessado em discutir oportunidades de colaboração, aprendizado ou apenas bater um papo, fique à vontade para entrar em contato!
 
