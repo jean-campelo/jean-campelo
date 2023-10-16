@@ -1,7 +1,7 @@
   <div align="center">
 <table>
     <tr>
-      <td align="center" style="text-decoration: none;">
+      <td align="center">
         <h2>Saudações 👋, me chamo Jean e sou Desenvolvedor Full Stack</h2>
       </td>
       <td align="center">
