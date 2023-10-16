@@ -31,6 +31,8 @@ Se você estiver interessado em discutir oportunidades de colaboração, aprendi
 📫 E-mail: jean93campelo@gmail.com  
 💻 LinkedIn: [jean-campelo](https://www.linkedin.com/in/jean-campelo/)  
 
+<a href="https://app.bounties4.com/@/jean-campelo" target="_blank"><img title="bounties4.com/@/jean-campelo" alt="bounties4.com/@/jean-campelo" src="https://storage.googleapis.com/profile_avatar/production/103276363690671191526/1697468834308_badge.png" width="400" height="400" /></a>
+
 🌐 Meus projetos recentes podem ser encontrados aqui no GitHub. Dê uma olhada! 
 
 ### **Ferramentas & tecnologias**
