@@ -2,7 +2,7 @@
 <table>
     <tr>
       <td align="center">
-        <h2>Saudações 👋, me chamo Jean e sou Desenvolvedor Full Stack</h2>
+        <h2 style="text-decoration: none;">Saudações 👋, me chamo Jean e sou Desenvolvedor Full Stack</h2>
       </td>
       <td align="center">
         <img align="center" width="500px" src="https://media.tenor.com/0Akz_GWDQyQAAAAC/star-wars-hello-there.gif" />
