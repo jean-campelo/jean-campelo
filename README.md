@@ -40,6 +40,7 @@ Se você estiver interessado em discutir oportunidades de colaboração, aprendi
 ![NPM]
 ![redis]
 ![HTML]
+![git]
 ![AWS]
 ![linux]
 ![JS]
@@ -62,7 +63,6 @@ Se você estiver interessado em discutir oportunidades de colaboração, aprendi
 ![react]
 ![cypress]
 ![express]
-![git]
 #
 
 ![](https://github.com/jean-campelo/jean-campelo/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
