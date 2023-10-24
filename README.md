@@ -13,9 +13,9 @@
 
 Sou apaixonado por tecnologia, acredito que na construção de testes para melhorar o processamento de dados, desempenho e experiência do usuário.
 
-📚 Atualmente, estou focado em aprimorar minhas habilidades em __Python__.
+📚 Atualmente, estou focado em aprimorar minhas habilidades em __Python__ e trabalhando como freelancer
 
-💡 Acredito que o conhecimento e a tecnologia podem transformar o mundo, tornando-o um lugar melhor para todos nós. 
+💡 Acredito que o conhecimento e a tecnologia podem transformar o mundo, tornando-o um lugar melhor para todos nós
 
 🌟 Algumas das tecnologias que adoro trabalhar:
 
