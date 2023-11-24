@@ -24,7 +24,7 @@ Sou apaixonado por tecnologia, acredito que na construção de testes para melho
 - Banco: MongoDB | PostgreSQL | MySQL
 - DevOps: Docker | GitHub Actions | Heroku | AWS
 - Testes: Jest | Mocha | Playwright
-- Ferramentas adicionais: Git | Styled Components | Prettier | Commitlint | SuperTest
+- Ferramentas adicionais: Git | Styled Components | Prettier | ESLint | Commitlint | SuperTest
 
 Se você estiver interessado em discutir oportunidades de colaboração, aprendizado ou apenas bater um papo, fique à vontade para entrar em contato!
 
