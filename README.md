@@ -31,7 +31,6 @@ Se você estiver interessado em discutir oportunidades de colaboração, aprendi
 📫 E-mail: jean93campelo@gmail.com  
 💻 LinkedIn: [jean-campelo](https://www.linkedin.com/in/jean-campelo/)  
 
-🌐 Meus projetos recentes podem ser encontrados aqui no GitHub. Dê uma olhada! 
 
 ### **Ferramentas & tecnologias**
 ![jest]
